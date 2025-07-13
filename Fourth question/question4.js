@@ -1,0 +1,1 @@
+document.getElementsByClassName("text")[0].style.color="red";
