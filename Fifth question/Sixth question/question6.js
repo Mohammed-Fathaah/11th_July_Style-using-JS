@@ -1,0 +1,1 @@
+document.getElementsByClassName("font")[1].style.fontSize="24px";
