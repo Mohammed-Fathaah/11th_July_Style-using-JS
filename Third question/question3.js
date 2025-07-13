@@ -1,0 +1,1 @@
+document.getElementById("hideMe").style.display="none";
